@@ -202,5 +202,3 @@ python clustering_evaluation.py
 5. **Documentación completa** - Explicaciones teóricas y prácticas
 
 ---
-
-¡Tarea completada con éxito! 🎉 
